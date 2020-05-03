@@ -1,3 +1,3 @@
 export var GLOBAL = {
-  url: 'https://shrouded-springs-40173.herokuapp.com/'
+  url: 'https://leonardosuacha.github.io/api/'
 }
